@@ -15,10 +15,14 @@ body {
     color: white;
 }
 
-.location {
+.location, 
+.temperature {
     height: 30vh;
     width: 50%;
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+.temperature {
+    
 }
